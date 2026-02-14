@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>ma premiere page valide en html5 </title>
+<meta charset="utf-8"/>
+</head>
+<body>
+<h1>salut,je suis un gros titre!<h1>
+<h2>je suis un titre un peu moins important</h2>
+<h3>je suis un titre moyennement important</h3>
+<h6>je suis un titre tres peu important</h6>
+<!--et moi je suis un commentaire...personne ne me verra-->
+<p>et moi je suis un paragraphe</p>
+</body>
+</html>
